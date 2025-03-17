@@ -1,0 +1,136 @@
+body {
+
+font-family: Arial, sans-serif;
+
+color: #000000;
+
+background-color: #f48fb1;
+  
+margin: 0;
+
+padding: 10px;20px;10px;20px;
+
+line-height: 1.6;
+
+text-align: left;
+
+}
+
+
+header {
+
+background-color: #333;
+
+color: white;
+
+padding: 20px;
+
+text-align:center;
+
+}
+
+
+header h1 {
+
+margin: 0;
+
+}
+
+
+nav a {
+
+color: white;
+
+text-decoration: none;
+
+margin: 0 10px;
+
+}
+
+
+nav a:hover {
+
+color: white;
+
+text-decoration: underline;
+
+}
+
+main {
+
+padding: 20px;
+
+max-width: 800px;
+
+margin: 0 auto;
+
+}
+
+
+main img {
+
+max-width: 100%;
+
+height: auto;
+
+display: block;
+
+margin: 20px 0;
+
+position: centre;
+
+  padding: 10px;20px;10px;20px;
+
+
+}
+
+footer {
+
+background-color: #333;
+
+color: white;
+
+text-align: center;
+
+padding: 20px;
+
+
+p {
+
+font-size: 1.1em;
+
+}
+
+
+a {
+
+color: #4CAF50;
+
+text-decoration: none;
+
+}
+
+
+a:hover {
+
+text-decoration: underline;
+
+}
+
+img {
+
+border: 5px solid #f06292;
+
+border-radius: 10px;
+
+position: centre;
+
+}
+
+main a[href^="mailto:"] {
+
+color: #ff5722;
+
+font-weight: bold;
+
+}
